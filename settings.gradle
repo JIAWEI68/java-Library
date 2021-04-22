@@ -1,0 +1,3 @@
+include ':Java Lib'
+include ':app'
+rootProject.name = "BasicJava"
